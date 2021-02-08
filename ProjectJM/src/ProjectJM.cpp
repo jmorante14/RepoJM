@@ -10,7 +10,7 @@
 using namespace std;
 
 int main() {
-	cout << "Hello World!!!" << endl; // prints Hello World!!!
-	// Clonar de jmorante14 a jmoranteg
+	cout << "Hello World!!! Have a good day" << endl; // prints Hello World!!!
+	// Cambio en jmoranteg
 	return 0;
 }
