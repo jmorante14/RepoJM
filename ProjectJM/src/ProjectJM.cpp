@@ -11,6 +11,8 @@ using namespace std;
 
 int main() {
 	cout << "Hello World!!! Have a good day" << endl; // prints Hello World!!!
-	// Cambio en jmoranteg
+	//
+	// Vamos a trabajar!!!
+	cout << "C'mon" << end2;
 	return 0;
 }
